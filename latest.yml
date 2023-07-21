@@ -1,8 +1,8 @@
-version: 0.1.4
+version: 0.1.5
 files:
   - url: ETIS-Pohoda-setup.exe
-    sha512: yV6cnGw4pCoHIIraebjDrnpiqo1swbZSzn8JRGr9rz81ISJdB+rZf5WpfJMLcTydasOSXsVDj9h4vEbHbWbpyA==
-    size: 89583226
+    sha512: UfH8YY1rkPxzCsUavjt/v/1Zon2QowUx5PLQBjw2GG3tccyIme/41fs1uZ+2bkkdzjCLnYSrTPoaoZR+ygVRNw==
+    size: 89581331
 path: ETIS-Pohoda-setup.exe
-sha512: yV6cnGw4pCoHIIraebjDrnpiqo1swbZSzn8JRGr9rz81ISJdB+rZf5WpfJMLcTydasOSXsVDj9h4vEbHbWbpyA==
-releaseDate: '2023-07-21T13:29:30.847Z'
+sha512: UfH8YY1rkPxzCsUavjt/v/1Zon2QowUx5PLQBjw2GG3tccyIme/41fs1uZ+2bkkdzjCLnYSrTPoaoZR+ygVRNw==
+releaseDate: '2023-07-21T14:05:51.202Z'
