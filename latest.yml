@@ -1,8 +1,8 @@
-version: 0.0.4
+version: 0.0.5
 files:
-  - url: et-pohoda Setup 0.0.4.exe
-    sha512: sfxWXEyZVwSoLrtcARWGXoZ//noU9ej0Q2N6ZQcdwMhStolaHzSUxsVe9qVeLXuTLPD30y/2XM+TOew8by64tQ==
-    size: 89588085
-path: et-pohoda Setup 0.0.4.exe
-sha512: sfxWXEyZVwSoLrtcARWGXoZ//noU9ej0Q2N6ZQcdwMhStolaHzSUxsVe9qVeLXuTLPD30y/2XM+TOew8by64tQ==
-releaseDate: '2023-07-21T08:01:08.161Z'
+  - url: et-pohoda Setup 0.0.5.exe
+    sha512: qACaP9HdiIi13Pf2PJAyFvbuw4UUI25OoqltnVXe0C8NiLBwJefl3i0tmJ9sWRpv+ZuKPYUgc6qeyJnWxwujrw==
+    size: 89588327
+path: et-pohoda Setup 0.0.5.exe
+sha512: qACaP9HdiIi13Pf2PJAyFvbuw4UUI25OoqltnVXe0C8NiLBwJefl3i0tmJ9sWRpv+ZuKPYUgc6qeyJnWxwujrw==
+releaseDate: '2023-07-21T08:05:45.425Z'
