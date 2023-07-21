@@ -8,7 +8,7 @@ files:
 win:
   appId: ETIS Pohoda
   artifactName: ETIS-Pohoda-setup.${ext}
-  icon: assets/images/logo_blue.ico
+  icon: ./logo_blue.ico
   publish:
     provider: generic
     url: https://some-url/
