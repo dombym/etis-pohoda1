@@ -6,11 +6,12 @@ files:
       - '!.git/'
       - '!installer/'
 win:
-  appId: etis-pohoda
+  appId: ETIS Pohoda
+  artifactName: ETIS-Pohoda-setup.${ext}
   icon: assets/images/logo_blue.ico
   publish:
     provider: generic
     url: https://some-url/
-    publishAutoUpdate: true
+    publishAutoUpdate: false
     channel: latest
 electronVersion: 25.0.1
