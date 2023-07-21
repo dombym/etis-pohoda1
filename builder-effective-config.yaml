@@ -12,6 +12,6 @@ win:
   publish:
     provider: generic
     url: https://some-url/
-    publishAutoUpdate: false
+    publishAutoUpdate: true
     channel: latest
 electronVersion: 25.0.1
